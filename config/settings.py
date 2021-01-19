@@ -25,7 +25,7 @@ SECRET_KEY = 'ryary^u#q-ei(byq4e0#6iup+d#)d3kw)0@=84b2d*oimd75#)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
